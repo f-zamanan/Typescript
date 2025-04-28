@@ -16,3 +16,7 @@ console.log(favMovies.length);
 favMovies.push("Iron man 2");
 
 console.log(favMovies.length);
+
+// .push, .pop, .length, .unshift, .shift
+// be mindful of what each methods returns if I want to utilize the return value
+// .includes(""): it's like a search function for array elemnts, it is case sensitive though
